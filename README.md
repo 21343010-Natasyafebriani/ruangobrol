@@ -1,2 +1,2 @@
 # ruangobrol
-Aplikasi ini untuk Pratikum JS 9
+Aplikasi ini untuk Pratikum Jobsheet 9
